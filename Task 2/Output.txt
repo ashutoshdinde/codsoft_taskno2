@@ -1,0 +1,23 @@
+Enter the number of subject you want to add:
+5
+Enter Marks for subject  1:
+100
+Enter Marks for subject  2:
+98
+Enter Marks for subject  3:
+95
+Enter Marks for subject  4:
+96
+Enter Marks for subject  5:
+79
+
+Your MarkSheet
+Results:
+Marks obtained in Subject 1 are 100.0
+Marks obtained in Subject 2 are 98.0
+Marks obtained in Subject 3 are 95.0
+Marks obtained in Subject 4 are 96.0
+Marks obtained in Subject 5 are 79.0
+Total Marks: 468.0
+Average Percentage: 93.60%
+Grade: A
