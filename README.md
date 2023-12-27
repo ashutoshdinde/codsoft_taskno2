@@ -1,4 +1,4 @@
-Task-3: Student Grade Calculator
+Task-2: Student Grade Calculator
 Language: Core Java
 IDE: VS Code
 My Task is to implement a simple Grade Calculator that allows users to take the input of student marks,Calculate the total marks of student,Calculate Average percentage and based on these assign the Grade to Student and Display the Result.
